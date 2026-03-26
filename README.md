@@ -47,4 +47,4 @@ This privacy policy may be updated as the extension evolves.
 ## Contact
 
 If you have questions, please contact:
-[Your Email Here]
+pseudoctors@gmail.com
